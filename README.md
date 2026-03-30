@@ -23,7 +23,7 @@
 
 | Главный экран | Детали привычки | Добавление |
 | :---: | :---: | :---: |
-| ![Main Screen](Screenshots/MindLoop_1.png) | ![Detail View](Screenshots/MindLoop_3.png) | ![Add Habit](Screenshots/MindLoop_2.png) |
+| ![Main Screen](MindLoop/Screenshots/MindLoop_1.png) | ![Detail View](MindLoop/Screenshots/MindLoop_3.png) | ![Add Habit](MindLoop/Screenshots/MindLoop_2.png) |
 
 ## 🚀 Установка
 
@@ -38,12 +38,6 @@
     ```
 3. Соберите и запустите приложение на симуляторе iOS 17.0+.
 
-## 🗺 Планы по развитию (Roadmap)
-
-- [ ] Добавление уведомлений-напоминалок.
-- [ ] Группировка привычек по категориям.
-- [ ] Темная тема оформления.
-- [ ] Виджеты для главного экрана iOS.
 
 ## 👨‍💻 Автор
 
